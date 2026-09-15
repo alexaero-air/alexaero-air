@@ -16,6 +16,6 @@
   * **Independent:** first, I look for answers in documentation and logs, and I ask questions in a structured manner.
   * **Written communicator:** I write clear comments on the code, detailed commits.
 ---
-My projects:
+### My projects:
 * [3X-UI Custom Templates](https://github.com/alexaero-air/3X-UI_Sub_Templates) – pack of custom templates of subscription page for 3X-UI VPN Panel.
 * [Py Parser Farpost](https://github.com/alexaero-air/pyparserfarpost) – python parser of Farpost advertisement.
