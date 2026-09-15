@@ -17,5 +17,5 @@
   * **Written communicator:** I write clear comments on the code, detailed commits.
 ---
 ### My projects:
-* [3X-UI Custom Templates](https://github.com/alexaero-air/3X-UI_Sub_Templates) – pack of custom templates of subscription page for 3X-UI VPN Panel.
+* [3X-UI Custom Templates](https://github.com/alexaero-air/3X-UI_Sub_Templates) – pack of custom templates of subscription page for [3X-UI](https://github.com/MHSanaei/3x-ui) VPN Panel.
 * [Py Parser Farpost](https://github.com/alexaero-air/pyparserfarpost) – python parser of Farpost advertisement.
